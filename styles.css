@@ -44,3 +44,7 @@ H1{
 .name{
     color: grey;
 }
+fieldset{
+    border: none;
+    margin-bottom: 50px;
+}
