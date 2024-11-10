@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+    background-color: rgb(24, 24, 73);
+
+    
+}
+
+H1{
+    text-align: center;
+    color: white;
+}
+.image_container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(16, 13, 13);
+    padding: 20px;
+    width: 400px;
+    max-width: fit-content;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    border: 1px solid aqua;
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+
+}
+.image{
+    border-radius: 8%;
+    margin-bottom: 15px;
+}
+.Adopt{
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 100px;
+    background-color: rgb(34, 234, 114);
+}
+.Adopt:hover{
+    background-color: green;
+}
+.name{
+    color: grey;
+}
